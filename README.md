@@ -1,6 +1,8 @@
 # Labpy03
 Nama    : Diajeng triana k.
+
 Nim     : 312110474
+
 Matkul  : Bahasa pemrogaman
 
 # LOOPING
@@ -14,13 +16,17 @@ print ('Masukkan nilai N: 5')
 import random
 
 j = 5
+
 a = 0
 
 for i in range(j):
+
 i = random.uniform(.0,.5)
+
 a+=1
 
 print('data ke:',a,'==>', i)
+
 print ('selesai')
 
 1. "print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
