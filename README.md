@@ -26,7 +26,6 @@ for i in range(j):
     a += 1
     
     print("data ke :", a, "==>", i)
-
 print("Selesai")
 
 1. "print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
@@ -55,7 +54,6 @@ while True:
         maks = a
     if a == 0:
         break
-
 print("Bilangan terbesarnya Adalah = ", maks)
 
 1. "max" : fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.
@@ -144,3 +142,4 @@ for i in range(1, 9):
 
 # Screenshoot hasil output program1.py
 
+<img width="722" alt="hasil output program1" src="https://user-images.githubusercontent.com/92905452/140966572-8fc97704-ed6e-434e-860f-a5df6aae8edf.png">
