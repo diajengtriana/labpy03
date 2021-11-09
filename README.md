@@ -11,23 +11,16 @@ Matkul  : Bahasa pemrogaman
 
 # Algoritma latihan1.py
 
-print ('Masukkan nilai N: 5')
-
+print ("masukkan nilai N: 5")
 import random
 
-j = 5
-
+j = 6
 a = 0
-
 for i in range(j):
-
-i = random.uniform(.0,.5)
-
-a+=1
-
-print('data ke:',a,'==>', i)
-
-print ('selesai')
+    i = random.uniform(.0, .5)
+    a += 1
+    print("data ke :", a, "==>", i)
+print("Selesai")
 
 1. "print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
@@ -40,3 +33,5 @@ print ('selesai')
 5. "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
 
 # Screenshoot hasil output latihan1.py
+
+<img width="726" alt="hasil output latihan1" src="https://user-images.githubusercontent.com/92905452/140963273-8b744b40-c018-407b-afb1-2b5eefff82c1.png">
